@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+
+/*===== MTSWENI HOUSE =====*/
+.mh{width:100%; height:100%;}
+.mh-space-0{width:100%; height:50px;}
+
+/*===== NAVIGATION =====*/
+.mh-nav{width:100%; height:100px;}
+	.mh-nav-space-0{width:5%; height:100px;}
+	.mh-nav-logo{width:10%; height:100%;}
+	.mh-nav-logo a{width:100%; height:100%;}
+	.mh-nav-space-1{width:45%; height:100px;}
+	.mh-nav-close{width:20%; height:100px;}
+	.mh-nav-close img{	width:5%; height:5%;}
+
+/*===== CATALOGUE =====*/
+.mh-space-1{width:100%; height:250px;}
+	.mh-catalogue{width:30%; height:200px;}
+	.mh-catalogue-items{width:100%; height:200px;}
+	.mh-catalogue-item{width:120px; height:200px;}
+	.mh-catalogue-item-icon, .mh-item-icon{width:100px; height:100px; }
+	.mh-catalogue-item-icon img, .mh-item-icon img{width:100%; height:100%;}
+	.mh-catalogue-item-title, .mh-item-title{width:100px; height:20px;}
+
+/*===== HERITAGE HALL =====*/
+.mh-nav-logo{width:15%; height:100%;}
+	.mh-nav-space-1{width:76%; height:100%;}
+	.mh-nav-close{width:4%; height:100%;}
+	.mh-nav-close img{width:15px; height:15px;}
+	.mh-catalogue-item-space{width:100%; height:10px;}
+
+
+/*===== WALL OF FACES =====*/
+.woa-space-0{width:5%; height:100%;}
+.woa-profilebox{width:90%; height:100%;}
+	.woa-profile-pack-1, .woa-profile-pack-2{width:100%; height:180px}
+		.woa-profile{width:270px; height:150px;}
+		.woa-icon{width:100px; height:100px; }
+		.woa-profile-space-0{width:20px; height:200px}
+		.woa-writeup{width:150px; height:150px;}
+		.woa-writeup-name{width:200px; height:20px}
+		.woa-writeup-title{width:200px; height:15px}
+		.woa-profile-space-1{width:100%; height:5px}
+		.woa-writeup-text{width:100%; height:15px}
+
+
+
+
+
+
