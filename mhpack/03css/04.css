@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+.mh-nav-space-0, .mh-nav-logo{float:left;}
+.mh-nav-logo, .mh-nav-space-1{float:left;}
+.mh-nav-space-1, .mh-nav-menu{float:left;}
+.mh-nav-menu, .mh-nav-space-2{float:left;}
+.mh-menu-item{float:left;}
+.catalogue-space-0, .catalogue-items{float:left;}
+.catalogue-item{float:left; text-align:center;}
+
+/*===== HERITAGE HALL =====*/
+.mh-nav-space-0, .mh-nav-logo{float:left;}
+.mh-nav-logo, .mh-nav-space-1{float:left;}
+.mh-nav-space-1, .mh-nav-close{float:left;}
+.mh-catalogue-item{float:left; text-align:center;}
+.mh-catalogue-space, .mh-catalogue-items{float:left;}
+
+/*===== WALL OF ACKNOWLEDGEMENT =====*/
+.woa-space-0, .woa-profilebox{float:left;}
+.woa-profile{float:left;}
+.woa-icon, .woa-profile-space-0, .woa-writeup, .woa-profile-space-1{float:left;}
