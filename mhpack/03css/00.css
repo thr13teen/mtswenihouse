@@ -7,7 +7,7 @@
 /*====FONTS====*/
 
 
-*											{margin:0px; width:100%;text-decoration:none;font-style:normal;transition:all .25s ease-in-out;}
+*	{margin:0px; width:100%;text-decoration:none;font-style:normal;transition:all .25s ease-in-out;}
 
 
 /*= MH =*/
@@ -15,26 +15,26 @@
 	.mh div:nth-child(1)					{height:10%;}
 	.mh div:nth-child(2)					{height:90%;}
 
-	.mh-pt0 								{width:100%;height:100px;position:absolute;z-index:1;opacity:50%;}
-	.mh-pt0 img								{width:100%;}
+	.mhpt0 								{width:100%;height:100px;position:absolute;z-index:1;opacity:50%;}
+	.mhpt0 img								{width:100%;}
 
-	.mh-pt1 								{width:100%;z-index:2;position:relative;}
-		.mh-pt1 div:nth-child(1)			{width:1%;}
-		.mh-pt1 div:nth-child(2)			{width:49%;}
-		.mh-pt1 div:nth-child(2) a			{width:100%;position:relative;top:10px;font-family:"DM Serif Display",serif;font-size:120%;color:#454545;}
-		.mh-pt1 div:nth-child(3)			{width:40%;}
-		.mh-pt1 div:nth-child(3) a			{width:13%;margin:2% 0 2% 0;font-family:"Urbanist",sans-serif;font-weight:400;font-size:75%;float:left;color:#454545;}
-		.mh-pt1 div:nth-child(3) a:hover	{color:#454545;}
-		.mh-pt1 div:nth-child(4)			{width:10%;}
-		.mh-pt1 div:nth-child(1),
-		.mh-pt1 div:nth-child(2),
-		.mh-pt1 div:nth-child(3),
-		.mh-pt1 div:nth-child(4)			{float:left;}
+	.mhpt1 								{width:100%;z-index:2;position:relative;}
+		.mhpt1 div:nth-child(1)			{width:1%;}
+		.mhpt1 div:nth-child(2)			{width:49%;}
+		.mhpt1 div:nth-child(3)			{width:35%;}
+		.mhpt1 div:nth-child(4)			{width:15%;}
+		.mhpt1 div:nth-child(2) a		{width:100%;position:relative;top:10px;font-family:"DM Serif Display",serif;font-size:120%;color:#454545;}
+		.mhpt1 div:nth-child(3) a		{width:25%;float:left;padding:2% 0 2% 0;font-family:"Urbanist",sans-serif;font-weight:400;font-size:75%;color:#454545;text-overflow:none;}
+		.mhpt1 div:nth-child(3) a:hover	{color:#454545;}
+		.mhpt1 div:nth-child(1),
+		.mhpt1 div:nth-child(2),
+		.mhpt1 div:nth-child(3),
+		.mhpt1 div:nth-child(4)			{float:left;}
 
 	.mh-pt2 								{width:98%;margin:0 1% 0 1%;position:relative;font-size:85%;color:#454545;z-index:3;}
-		.mh-pt2splash	 					{width:50%;margin:20% 0 .5% 0;}
+		.mh-pt2splash	 					{width:100%;margin:20% 0 .5% 1%;}
 		.mh-pt2splashhead 					{width:100%;font-family:"Passion One",sans-serif;font-size:500%;letter-spacing:-2px;}
-		.mh-pt2splashtext					{width:100%;font-family:"Urbanist",sans-serif;font-size:90%;}
+		.mh-pt2splashtext					{width:50%;font-family:"Urbanist",sans-serif;font-size:90%;}
 		.mh-pt2splashtext p					{width:80%;}
 
 
